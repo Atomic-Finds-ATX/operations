@@ -7,7 +7,7 @@ The world has three characters: **Nacho** (the dog mascot/site guide — curious
 ## Sources this system was built from
 
 - `atomic finds assets/` — an attached local folder: logo concepts, Nacho + Inspection Team illustrations, the Mamba display font, the Inspection Team stamp brief, product photos, and two PDFs (`Atomic_Finds_ATX_Brand_Bible_V1.pdf`, `Atomic_Finds_ATX_Website_Creative_Brief_Anthony.pdf`).
-- `uploads/🪐 The Atomic Inspection Team_ Official Stamps.md` — stamp/tag concepts and generation prompts for the Inspection Team.
+- `uploads/ The Atomic Inspection Team_ Official Stamps.md` — stamp/tag concepts and generation prompts for the Inspection Team.
 - No Figma file, GitHub repo, or existing website codebase was provided — there is no live product UI to recreate yet. Everything here is original synthesis from the brand-guideline materials above, built as a from-scratch design system.
 
 ## Components (Intentional additions)
@@ -76,7 +76,7 @@ Not yet built (flagged for the user): Google Business Profile update, Facebook M
 
 ## Iconography
 
-No icon system, icon font, or SVG icon set was found in the source material. The brand's "icons" are hand-drawn illustration assets (Nacho, the Inspection Team, starburst/atomic-ring motifs) rather than a UI icon set — treat any future UI icon need as an open question rather than inventing a system. No emoji are used in customer-facing copy (the 🛸🪐👽 in planning docs are internal only). No Unicode glyphs are used as icons in the source; the ✓ checkmark on the Atomic Find Card is the one exception, used as plain punctuation.
+No icon system, icon font, or SVG icon set was found in the source material. The brand's "icons" are hand-drawn illustration assets (Nacho, the Inspection Team, starburst/atomic-ring motifs) rather than a UI icon set — treat any future UI icon need as an open question rather than inventing a system. No emoji are used in customer-facing copy . No Unicode glyphs are used as icons in the source; the ✓ checkmark on the Atomic Find Card is the one exception, used as plain punctuation.
 
 ## Standalone downloads
 
